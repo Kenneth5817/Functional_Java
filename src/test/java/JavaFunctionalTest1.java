@@ -2,7 +2,7 @@ import org.iesvdm.IFuncionOperacion;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class JavaFunctionalTest {
+public class JavaFunctionalTest1 {
 
 
     @Test
