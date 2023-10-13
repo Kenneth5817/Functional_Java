@@ -117,7 +117,7 @@ public class JavaFunctionalTest2 {
         /*final*/ List<String> listNueva = new ArrayList<>();
         listaMutable.forEach((v) -> {
                 if (v.startsWith("d")) {
-                    listNueva.add(v);
+                    listNueva.add (v);
                 }
             }
         );
