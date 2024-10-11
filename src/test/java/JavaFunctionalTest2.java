@@ -36,7 +36,7 @@ public class JavaFunctionalTest2 {
     void iterarAntesDeJAVA8() {
 
         //IMPLEMENTACIÓN CON ÍNDICE (MALA PRÁCTICA)
-        for( int i = 0; i < listaMutable.size(), i++ ) {
+        for( int i = 0; i < listaMutable.size(); i++ ) {
 
             String valor = listaMutable.get(i);
             System.out.println(valor);
